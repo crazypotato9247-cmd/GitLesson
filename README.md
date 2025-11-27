@@ -13,3 +13,11 @@ tis is unordered list:
 let str = 'this is js code';
 
 ```
+## заходим в папку с работой и вверху пишем cmd
+## git config --global user.email "пишете свой имейл"
+## git config --global user.name "пишете своё имя"
+## на каждый файл пишется git add index.html
+## git status
+## git commit -m"я добавил новые файлы"
+## git push
+##вместо git add index.html можно написать git add -A
